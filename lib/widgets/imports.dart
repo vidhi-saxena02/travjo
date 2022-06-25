@@ -1,0 +1,11 @@
+export 'mobileBottom.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:travjo/widgets/BgImage.dart';
+export 'package:travjo/widgets/responsive.dart';
+export 'package:travjo/widgets/chooseUs.dart';
+export '../utils/constants.dart';
+export '../widgets/Container1and2.dart';
+export '../widgets/Header.dart';
+export 'package:travjo/widgets/services.dart';
+export 'package:travjo/widgets/DesktopBottom.dart';
+export 'package:travjo/widgets/profileCard.dart';
